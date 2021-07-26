@@ -1,0 +1,56 @@
+[
+  {
+    "light_id": "1234",
+    "color": "B45 Sky Blue",
+    "wattage": "150W",
+    "lamp_type": "High Pressure Sodium"
+  },
+  {
+    "light_id": "8753",
+    "color": "B45 Sky Blue",
+    "wattage": "150W",
+    "lamp_type": "High Pressure Sodium"
+  },
+  {
+    "light_id": "6736",
+    "color": "B45 Sky Blue",
+    "wattage": "150W",
+    "lamp_type": "High Pressure Sodium"
+  },
+  {
+    "light_id": "5678",
+    "color": "G16 Traffic Green",
+    "wattage": "70W",
+    "lamp_type": "LED"
+  },
+  {
+    "light_id": "418",
+    "color": "G16 Traffic Green",
+    "wattage": "70W",
+    "lamp_type": "LED"
+  },
+  {
+    "light_id": "3202",
+    "color": "G16 Traffic Green",
+    "wattage": "33W",
+    "lamp_type": "LED"
+  },
+  {
+    "light_id": "291",
+    "color": "G16 Traffic Green",
+    "wattage": "33W",
+    "lamp_type": "LED"
+  },
+  {
+    "light_id": "74",
+    "color": "N23 Neutral Grey",
+    "wattage": "33W",
+    "lamp_type": "LED"
+  },
+  {
+    "light_id": "930",
+    "color": "N23 Neutral Grey",
+    "wattage": "33W",
+    "lamp_type": "LED"
+  }
+]

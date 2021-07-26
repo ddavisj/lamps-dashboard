@@ -1,0 +1,106 @@
+[
+  {
+    "event_id": "0",
+    "light_id": "1234",
+    "code": "limited_connectivity",
+    "severity": "1",
+    "description": "Issue with the connectivity",
+    "duration_sec": 3654
+  },
+  {
+    "event_id": "1",
+    "light_id": "1234",
+    "code": "high_voltage",
+    "severity": "3",
+    "description": "Issue with the power supply",
+    "duration_sec": 3654
+  },
+  {
+    "event_id": "2",
+    "light_id": "1234",
+    "code": "low_voltage",
+    "severity": "3",
+    "description": "Issue with the power supply",
+    "duration_sec": 1654
+  },
+  {
+    "event_id": "3",
+    "light_id": "1234",
+    "code": "low_voltage",
+    "severity": "3",
+    "description": "Issue with the power supply",
+    "duration_sec": 1654
+  },
+  {
+    "event_id": "4",
+    "light_id": "1234",
+    "code": "low_voltage",
+    "severity": "3",
+    "description": "Issue with the power supply",
+    "duration_sec": 1654
+  },
+  {
+    "event_id": "5",
+    "light_id": "1234",
+    "code": "high_voltage",
+    "severity": "3",
+    "description": "Issue with the power supply",
+    "duration_sec": 1654
+  },
+  {
+    "event_id": "6",
+    "light_id": "8753",
+    "code": "high_voltage",
+    "severity": "3",
+    "description": "Issue with the power supply",
+    "duration_sec": 1654
+  },
+  {
+    "event_id": "7",
+    "light_id": "8753",
+    "code": "limited_connectivity",
+    "severity": "1",
+    "description": "Issue with the connectivity",
+    "duration_sec": 3654
+  },
+  {
+    "event_id": "8",
+    "light_id": "3202",
+    "code": "no_connectivity",
+    "severity": "2",
+    "description": "Issue with the connectivity",
+    "duration_sec": 3654
+  },
+  {
+    "event_id": "9",
+    "light_id": "3202",
+    "code": "no_connectivity",
+    "severity": "2",
+    "description": "Issue with the connectivity",
+    "duration_sec": 3654
+  },
+  {
+    "event_id": "10",
+    "light_id": "1777",
+    "code": "no_connectivity",
+    "severity": "2",
+    "description": "Issue with the connectivity",
+    "duration_sec": 3654
+  },
+  {
+    "event_id": "11",
+    "light_id": "1777",
+    "code": "no_connectivity",
+    "severity": "2",
+    "description": "Issue with the connectivity",
+    "duration_sec": 3654
+  },
+  {
+    "event_id": "12",
+    "light_id": "1934",
+    "code": "low_voltage",
+    "severity": "3",
+    "description": "Issue with the power supply",
+    "duration_sec": 1654
+  }
+]

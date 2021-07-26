@@ -1,0 +1,76 @@
+h2.events {
+	padding-top: 30px;
+}
+
+#events p {
+	padding-left: 15px;
+}
+
+#headings svg {
+	width: 47px;
+	height: 20px;
+}
+
+.parent-div {
+	display: flex;
+	align-items: center;
+}
+
+.parent-div span.lamp-serious-events {
+	padding-left: 60px !important;
+}
+
+#headings span.serious-event-deets {
+	padding-left: 45px;
+}
+
+.lamp-id {
+	font-weight: bold;
+	padding-left: 5px;
+}
+
+.lamp-id,
+.lamp-power,
+.lamp-type {
+	width: 60px;
+}
+.lamp-power,
+.lamp-type {
+	padding-left: 20px;
+	font-size: 16px;
+}
+
+.lamp-serious-events {
+	padding-left: 20px;
+	width: 82px;
+}
+
+#headings .lamp-id {
+	padding-left: 11px;
+	padding-right: 27px;
+}
+
+#headings span {
+	padding-right: 5px;
+	font-weight: bold;
+}
+
+span.serious-event-deets {
+	padding-left: 20px;
+	padding-right: 10px;
+}
+
+.num-srs-events {
+	font-weight: bold;
+	/* font-size: large; */
+	color: red;
+}
+
+/* svg {
+	height: 40;
+	width: 40;
+} */
+
+circle:hover {
+	opacity: .8;
+}
