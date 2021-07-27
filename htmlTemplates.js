@@ -2,11 +2,9 @@
 
 const lampSvgTemplate = (color, colorTitle) => {
 	return `
-		  <svg height="50" width="50">
-			  <circle fill='${color}' stroke="black" stroke-width="2" r="20" cx="25" cy="25">
-				  <title>${colorTitle}</title>
-			  </circle>
-		  </svg>`;
+		  <ball title="${colorTitle}" style="background-color: ${color}">
+		  </ball>
+	`;
 };
 
 const lampDataTemplate = (lamp, type, seriousEvents) => {
