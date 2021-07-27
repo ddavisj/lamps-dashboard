@@ -19,6 +19,7 @@ const lampDataTemplate = (lamp, type, seriousEvents) => {
 };
 
 const headingTemplate = `
+<div id="headings-div">
   <span id="headings">
 	  <svg></svg>
 	  <span class="lamp-id">ID</span>
@@ -30,4 +31,5 @@ const headingTemplate = `
 	  </span>
 	  <span class="serious-event-deets">Duration, High/Low Voltage</span>
   </span>
+</div>
   `;

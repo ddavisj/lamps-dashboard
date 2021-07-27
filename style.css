@@ -19,6 +19,13 @@ ball:hover {
 	margin-bottom: 5px;
 }
 
+#headings-div {
+	margin-bottom: 10px;
+}
+div#all-lamps {
+	padding-left: 10px;
+}
+
 div#heading {
 	display: flex;
 	align-items: center;
@@ -83,6 +90,10 @@ h2.events {
 #headings span {
 	padding-right: 5px;
 	font-weight: bold;
+}
+
+#events-by-severity {
+	margin-top: 30px;
 }
 
 span.serious-event-deets {
