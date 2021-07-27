@@ -19,6 +19,15 @@ ball:hover {
 	margin-bottom: 5px;
 }
 
+div#heading {
+	display: flex;
+	align-items: center;
+}
+
+img.main-h {
+	width: 70px;
+}
+
 h2.events {
 	padding-top: 30px;
 }
