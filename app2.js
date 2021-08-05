@@ -114,3 +114,5 @@ async function render(lamps) {
 		lampsInfoDiv.append(currLampEl);
 	}
 }
+
+// updated!
