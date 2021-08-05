@@ -6,6 +6,7 @@ const seriousEventsDiv = document.querySelector('#serious-events');
 const powerIssuesDiv = document.querySelector('#power-issues');
 
 // MAKE CONCURRENT REQUESTS
+
 async function runAll() {
 	const allEventDetailsProm = axios.get('events.json');
 	const lampDetailsProm = axios.get('lights.json');
@@ -29,7 +30,7 @@ async function getEvents(eventsData) {
 	seriousEventsArr = eventsData.reduce((groupedByLightId, currEvent) => {
 		const key = currEvent.light_id;
 		if (parseInt(currEvent.severity) === 3) {
-			if (!groupedByLightId[key]) groupedByLightId[key] = []; /// create array for lightId if it doesn't exist
+			if (!groupedByLightId[key]) groupedByLightId[key] = []; // create array for lightId if it doesn't exist
 			groupedByLightId[key].push(currEvent);
 		}
 		return groupedByLightId;
